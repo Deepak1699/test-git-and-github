@@ -1,1 +1,1 @@
-this new feature implemented in two.txt
+this new feature has been implemented and fully tested in two.txt
